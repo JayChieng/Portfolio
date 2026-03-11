@@ -101,6 +101,7 @@ function ProjectSlide() {
               A mobile shopping application designed to provide a simple and
               user-friendly shopping experience, including authentication,
               browsing, cart management, wishlist, checkout, and order tracking.
+              APK available for testing
             </p>
           </div>
 
@@ -149,6 +150,15 @@ function ProjectSlide() {
                 className="project-link"
               >
                 Web version
+              </a>
+
+              <a
+                href="https://expo.dev/accounts/jay_chieng/projects/ecommerce-app/builds/1488deb1-bdad-47aa-b069-d5d260b4cb2f"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="project-link ghost-link"
+              >
+                Download APK
               </a>
             </div>
           </div>
